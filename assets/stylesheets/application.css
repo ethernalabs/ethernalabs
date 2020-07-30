@@ -3,7 +3,7 @@
   Navbar CSS related
 */
 #main-navbar {
-  background-color: #1E95E6;
+  background-color: #2D88FF;
   height: 80px;
 }
 
@@ -28,4 +28,11 @@
 
 #hero-container {
   margin-top: 80px;
+}
+
+#services-icon {
+  margin-top: 90px;
+}
+.services {
+  text-align: center;
 }
