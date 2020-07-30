@@ -1,0 +1,31 @@
+
+/* 
+  Navbar CSS related
+*/
+#main-navbar {
+  background-color: #1E95E6;
+  height: 80px;
+}
+
+.nav-brand a:hover {
+  background-color: transparent;
+}
+
+.navbar-item img  {
+  max-height: none;
+}
+
+.navbar-item {
+  color: white;
+}
+
+/*
+  Hero CSS related
+*/
+.hero {
+ background-image: linear-gradient(141deg,#009e6c 0,#00e7eb 71%,#1e95e6 100%);
+}
+
+#hero-container {
+  margin-top: 80px;
+}
